@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">APP2</string>
+    <string name="email">email</string>
+    <string name="Masuk">Masuk</string>
+    <string name="Inputkan_Password">Inputkan_Password</string>
+    <string name="Input_Email_User">Input_Email_User</string>
+</resources>
